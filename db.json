@@ -1,0 +1,32 @@
+{
+  "vehicleList": [
+    {
+      "vehicleName": "Volkswagen Polo GTI",
+      "category": "Hatchback",
+      "state": "Used",
+      "price": 26000,
+      "date": "2018-06-02T22:00:00.000Z",
+      "comment": "White with red tartan seats.",
+      "id": 1
+    },
+    {
+      "vehicleName": "BMW 335i",
+      "category": "Sedan",
+      "state": "Used",
+      "price": 15000,
+      "date": "2022-10-03T22:00:00.000Z",
+      "comment": "Great car",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
